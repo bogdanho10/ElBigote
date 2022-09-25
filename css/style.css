@@ -18,3 +18,11 @@ nav{
     color: #fff;
     text-decoration: none;
 }
+/* Register Form */
+.registerForm,.loginForm{
+    text-align: center;
+    font-size: 30px;
+}
+.registerForm input,.loginForm input{
+    text-align:center;
+}
